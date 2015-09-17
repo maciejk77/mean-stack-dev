@@ -1,0 +1,22 @@
+{
+  "name": "MEAN",
+  "version": "1.0.0",
+  "description": "\"MEAN stack app\"",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "grunt": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "keywords": [
+    "MongoDB",
+    "Express",
+    "AngularJS",
+    "Node.js"
+  ],
+  "author": "Maciej Kurek",
+  "license": "MIT"
+}
